@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourusername/snake-game:latest
+          tags: eroz800/snake-game:latest
